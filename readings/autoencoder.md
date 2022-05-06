@@ -15,7 +15,7 @@ Autoencoder is a **unsupervised** artificial neural network, that learns how to 
 ![](images/autoEncoder.png)
 
 **Uses:**
-- Dimension reduction(nonlinear, Principle Component Analysis reduces dimension with a linear approach)
+- Dimension reduction
 - Reduce noise in data
 - Generative modeling
 - Efficient coding

@@ -1,3 +1,4 @@
+
 install.packages(c("twitteR", "RCurl","RJSONIO","stringr","tm","wordcloud","SnowballC", "ggplot2", "plyr","reshape2"))
 library(twitteR)
 library(RCurl)

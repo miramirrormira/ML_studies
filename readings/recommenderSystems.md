@@ -16,10 +16,13 @@ Recommender systems are replacements of search engines by reducing the efforts i
 - predict the click-through rate from abundant features
 - cold-start recommendation, recommending for new users and recommending new items to existing users
 
+<<<<<<< HEAD
+=======
 **Challenges**
 - data spacity
 - cold-start
 
+>>>>>>> 3d4ea59b34c1179ea557d384a4c30b48595082b5
 ## fundamental concepts
 ### Collaborative Filtering (CF)
 "people collaborate to help one another perform the filtering process in order to handle the large amounts of email and messages posted to newsgroups." -- Goldberg et al., 1992
