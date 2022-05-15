@@ -26,7 +26,7 @@ Autoencoder is a **unsupervised** artificial neural network, that learns how to 
 ***The Encoder***
 The encoder will transform the high dimensional input data X, into a low dimensional hidden representation h:
 $$
-h = f(X) = s_f(W* X + b)
+h = f(X) = s_f(W * X + b)
 $$
 - $s_f$ is activation function, e.g. Sigmoid, TanH, or ReLU
 - W is weight matrix
@@ -35,7 +35,7 @@ $$
 ***The Decoder***
 The decoder will transform the low dimensional h back to the original high dimension representation $x'$
 $$
-x' = g(h) = s_g(W'*h + b')
+x' = g(h) = s_g(W' * h + b')
 $$
 - $s_g$ is activation function, e.g. Sigmoid, TanH, or ReLU
 - W' is weight matrix
